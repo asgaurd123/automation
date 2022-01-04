@@ -12,7 +12,8 @@ download the google chrome driver by seeing this video:https://www.youtube.com/w
 you should get an brief overview of what selenium is to understand the project by watching the video above
 
 
-Description
+Description:
+
    In this mini project I have written a program to fetch the the prices of few watches from amazon and used xlwt module to display the prices in excel sheet.
    The final output will look something like this:
    
